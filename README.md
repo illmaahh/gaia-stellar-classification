@@ -16,3 +16,11 @@ using astrometric and photometric data from the Gaia DR3 survey.
 
 ## Tools
 Python, Pandas, NumPy, Matplotlib, Astroquery
+
+## Sample Results
+
+### Hertzsprung–Russell Diagram
+![HR Diagram](figures/hr_diagram.png)
+
+### Sky Distribution of Halo Star Candidates
+![Sky Distribution](figures/sky_distribution.png)
